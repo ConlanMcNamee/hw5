@@ -1,0 +1,32 @@
+.Blue {
+  color: rgb(0, 46, 184);
+  margin: 10px;
+  padding: 5px;
+}
+
+.Red {
+  padding: 4px;
+  font-size: 95%;
+  background-color: rgb(255, 30, 30);
+}
+
+td {
+  padding: 3px;
+  font-style: oblique;
+  background-color: rgb(255, 102, 102);
+}
+td.alt {
+  background-color: rgb(255,160,160);
+}
+
+body {
+  background-color: rgb(232, 232, 224);
+}
+
+th, td, tr {
+  border-radius: 5px;
+}
+
+#ital {
+  font-style: italic;
+}
